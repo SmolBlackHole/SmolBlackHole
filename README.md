@@ -2,7 +2,9 @@
 
 <p align="center">
   👽 I'm a computer science student in the 2nd semester
+  
   🤖 Currently learning Java, C#, Python and PyTorch to grow my tech stack
+  
   💯 Full-Stack Developer in the making
 </p>
 <br>
