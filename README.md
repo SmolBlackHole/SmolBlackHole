@@ -2,17 +2,17 @@
 
 <p align="center">
   👽 I'm a computer science student in the 2nd semester
-  
+</p>
+
+<p align="center">
   🤖 Currently learning Java, C#, Python and PyTorch to grow my tech stack
-  
+</p>
+
+<p align="center">
   💯 Full-Stack Developer in the making
 </p>
+
 <br>
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=SmolBlackHole&icon=2&color=1" alt="Visit Count" />
-  </a>
-</p>
 
 # 💻 Tech Stack
 <p align="center">
@@ -45,3 +45,8 @@
   <img style="object-fit: contain; width: 100%; height: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmolBlackHole&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=SmolBlackHole&icon=2&color=1" alt="Visit Count" />
+  </a>
+</p>
