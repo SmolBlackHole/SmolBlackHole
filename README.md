@@ -46,7 +46,7 @@
 </div>
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=SmolBlackHole&icon=2&color=1" alt="Visit Count" />
-  </a>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=SmolBlackHole&label=Profile%20Views&pretty=false" />
+</a>
 </p>
