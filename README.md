@@ -46,7 +46,7 @@
 </div>
 
 <p align="center">
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=SmolBlackHole&label=Profile%20Views&pretty=false" />
-</a>
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=SmolBlackHole&label=Profile%20Views&color=11&icon=1&pretty=true" />
+  </a>
 </p>
