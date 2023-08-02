@@ -41,5 +41,5 @@
 </div>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/SmollBlackHole/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/SmolBlackHole/count.svg?"  />
 </div>
