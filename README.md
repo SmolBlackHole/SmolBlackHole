@@ -47,6 +47,6 @@
 
 <p align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=SmolBlackHole&label=Profile%20Views&color=11&icon=1&pretty=true" />
+    <img src="https://visitcount.itsvg.in/api?id=SmollBlackHole&label=Profile%20Views&color=11&icon=5&pretty=false" />
   </a>
 </p>
