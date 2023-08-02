@@ -45,8 +45,6 @@
   <img style="object-fit: contain; width: 49%; height: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmolBlackHole&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=SmollBlackHole&label=Profile%20Views&color=11&icon=5&pretty=false" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/SmollBlackHole/count.svg?"  />
+</div>
