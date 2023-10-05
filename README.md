@@ -1,7 +1,7 @@
 # 💫 About Me
 
 <p align="center">
-  👽 I'm a computer science student in the 2nd semester
+  👽 I'm a computer science student in the 3rd semester
 </p>
 
 <p align="center">
