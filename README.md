@@ -1,15 +1,11 @@
 # 💫 About Me
 
 <p align="center">
-  👽 I'm a computer science student in the 3rd semester
+  👽 4th Semester CS Student
 </p>
 
 <p align="center">
   🤖 Currently learning Java, C#, Python and PyTorch to grow my tech stack
-</p>
-
-<p align="center">
-  💯 Full-Stack Developer in the making
 </p>
 
 <br>
