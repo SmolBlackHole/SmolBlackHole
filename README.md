@@ -1,12 +1,19 @@
 # 💫 About Me
 
 <p align="center">
-  👽 4th Semester CS Student
+  👽 6th Semester CS Student
 </p>
 
 <p align="center">
-  🤖 Currently learning Java and Python grow my tech stack
+  🤖 Currently learning Python and C++ to grow my tech stack
 </p>
+
+<br>
+
+## 🕒 What I'm up to RN
+
+<p align="center">
+  🗿 Building a graph-powered search engine with an integrated tagging and metadata framework to pinpoint top-tier results based on keyword relevance. Goal is to enhance content discoverability and SEO by surfacing high-impact pages and improving information accessibility
 
 <br>
 
