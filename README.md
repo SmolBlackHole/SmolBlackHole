@@ -1,7 +1,7 @@
 # 💫 About Me
 
 <p align="center">
-  👽 6th Semester CS Student
+  👽 7th Semester CS Student
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 ## 🕒 What I'm up to RN
 
 <p align="center">
-  🗿 Building a graph-powered search engine with an integrated tagging and metadata framework to pinpoint top-tier results based on keyword relevance. Goal is to enhance content discoverability and SEO by surfacing high-impact pages and improving information accessibility
+  🗿 Building Chimera, a generalized and abstract file conversion engine
 
 <br>
 
