@@ -13,9 +13,9 @@
 ## 🕒 What I'm up to RN
 
 <p align="center">
-  🗿 Building Chimera, a generalized and abstract file conversion engine
+  🗿 Building Chimera, a generalized and abstract file conversion engine <br>
   📁 Building FilIO, a workspace-orchestrator for distributed worker pipelines
-
+</p>
 <br>
 
 # 📊 GitHub Stats:
