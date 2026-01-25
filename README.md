@@ -14,6 +14,7 @@
 
 <p align="center">
   🗿 Building Chimera, a generalized and abstract file conversion engine
+  📁 Building FilIO, a workspace-orchestrator for distributed worker pipelines
 
 <br>
 
