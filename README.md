@@ -1,18 +1,32 @@
 # Hi, I'm SmolBlackHole 👋
 
-CS Master's student. I spend most of my time either writing C++ at a level closer to the metal than my comfort zone, or getting voluntarily roped into fullstack projects that "won't take long."
+CS Master's student. I spend most of my time either writing C++ closer to the metal than my comfort zone, or getting pulled into projects that "won’t take long" and somehow always do.
 
-> Building things nobody asked for and nobody except me uses lol
+> Building systems nobody asked for and nobody except me uses.
 
 *Don't drink and drive, smoke and fly.*
 
 ---
 
+## ⚙️ What I actually do
+
+- Build systems that run on constrained hardware and still behave like proper services  
+- Design pipelines (data, files, or events) instead of one-off scripts  
+- Bridge embedded ↔ backend ↔ infra when things get messy  
+- Prefer simple, reliable solutions over clever ones that break at 3am  
+
+---
+
 ## 👀 Open to Work
 
-Looking for a working student position or internship, preferably something involving embedded systems, backend, or "we have no idea what this thing does but please fix it."
+Looking for a working student position or internship.
 
-If you have something interesting, feel free to reach out.
+Focus areas:
+- Embedded systems  
+- Backend / systems engineering  
+- Infrastructure-heavy setups  
+
+If it's complex, slightly chaotic, or poorly documented — even better.
 
 ---
 
@@ -32,7 +46,7 @@ If you have something interesting, feel free to reach out.
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
-**Frontend** *(yes, I do this too, unfortunately)*
+**Frontend**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
@@ -40,17 +54,28 @@ If you have something interesting, feel free to reach out.
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 
+**Infra & Data**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat&logo=influxdb&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Telegraf](https://img.shields.io/badge/Telegraf-22ADF6?style=flat&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+
 ---
 
 ## 🔧 What I'm building
 
-All private repos for now. Here's what they are:
+All private repos for now.
 
 | Project | What it is |
 |---|---|
-| **Chimera** | File conversion engine. Input format, transformation, and output target are fully decoupled. Adding a new format doesn't touch existing code. |
-| **FilIO** | Workspace orchestrator for distributed worker pipelines. Handles file routing, worker coordination, and execution context. |
-| **Obsidian RAG** | RAG system on top of personal Obsidian vaults. Meant as a documentation layer that plugs into LLM pipelines so onboarding doesn't take three weeks. |
+| **Chimera** | File conversion engine. Input format, transformation, and output are fully decoupled. Adding new formats doesn't break existing ones. |
+| **FilIO** | Workspace orchestration layer for distributed pipelines. Handles routing, execution context, and worker coordination. |
+| **Obsidian RAG** | RAG system on top of personal knowledge bases. Built for actual usage, not demos. |
 
 ---
 
