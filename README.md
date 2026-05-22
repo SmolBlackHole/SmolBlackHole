@@ -73,6 +73,7 @@ All private repos for now.
 
 | Project | What it is |
 |---|---|
+| **Mermaid ELK Renderer** | Maintainer of a public Obsidian plugin for Mermaid ELK layouts, bundled Mermaid 11 support, and diagram-specific rendering behavior. |
 | **Chimera** | File conversion engine. Input format, transformation, and output are fully decoupled. Adding new formats doesn't break existing ones. |
 | **FilIO** | Workspace orchestration layer for distributed pipelines. Handles routing, execution context, and worker coordination. |
 | **Obsidian RAG** | RAG system on top of personal knowledge bases. Built for actual usage, not demos. |
