@@ -1,6 +1,6 @@
 # Hi, I'm SmolBlackHole 👋
 
-CS Master's student. I build things across embedded systems, full-stack development, infrastructure, and occasionally whatever weird optimization problem manages to keep me awake long enough.
+CS Master's student from Germany. I build things across embedded systems, full-stack development, infrastructure, and occasionally whatever weird optimization problem manages to keep me awake long enough.
 
 Most of my projects start with "this shouldn't take too long".
 
