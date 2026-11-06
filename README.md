@@ -8,9 +8,8 @@ They usually do.
 
 > Building systems nobody asked for and benchmarking them anyway.
 
-*Don't drink and drive, smoke and fly.*
+<br/>
 
----
 
 ## ⚙️ What I actually do
 
@@ -24,7 +23,7 @@ Most of my work ends up somewhere between:
 
 I care a lot about architecture, reproducibility, performance, and software that still makes sense six months after I wrote it.
 
----
+<br/>
 
 ## 🛠 Tech I actually use
 
@@ -52,7 +51,7 @@ I care a lot about architecture, reproducibility, performance, and software that
 
 I've also worked with C#, Java, React, Angular, FastAPI, Flask, InfluxDB, Grafana and enough other things to have opinions about most of them.
 
----
+<br/>
 
 ## 🔧 Things I'm working on
 
@@ -68,7 +67,7 @@ Most of my serious projects are private. I tend to keep source code to myself un
 
 There are more. This is probably enough evidence that I have a problem.
 
----
+<br/>
 
 ## 🧪 Things I find interesting
 
@@ -76,7 +75,7 @@ Performance engineering, embedded systems, search and optimization, software arc
 
 Apparently also computational mathematics now.
 
----
+<br/>
 
 ## 📊 GitHub Stats
 
